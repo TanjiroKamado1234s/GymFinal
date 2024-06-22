@@ -97,11 +97,11 @@ public class UserPrinting extends javax.swing.JFrame {
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel3.setText("CYBER CAFE GAMING ");
+        jLabel3.setText("GYM MEMBERSHIP ");
 
         jLabel4.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel4.setText("Poblacion Ward 2, Minglanilla, Cebu");
+        jLabel4.setText("Proper Pakigne, Minglanilla, Cebu");
 
         jSeparator1.setBackground(new java.awt.Color(0, 0, 0));
 

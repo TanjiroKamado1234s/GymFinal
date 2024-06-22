@@ -23,7 +23,7 @@ public class DbConnector {
     
      public DbConnector(){
             try{
-                connect = DriverManager.getConnection("jdbc:mysql://localhost:3306/comp_sys", "root", "");
+                connect = DriverManager.getConnection("jdbc:mysql://localhost:3306/gymsystemfinal", "root", "");
             }catch(SQLException ex){
                     System.out.println("Can't connect to database: "+ex.getMessage());
             }
@@ -31,7 +31,7 @@ public class DbConnector {
      
      public Connection connect_db(){
               try{
-                connect = DriverManager.getConnection("jdbc:mysql://localhost:3306/comp_sys", "root", "");
+                connect = DriverManager.getConnection("jdbc:mysql://localhost:3306/gymsystemfinal", "root", "");
             }catch(SQLException ex){
                     System.out.println("Can't connect to database: "+ex.getMessage());
             }

@@ -236,7 +236,7 @@
                   <Font name="Tahoma" size="14" style="1"/>
                 </Property>
                 <Property name="horizontalAlignment" type="int" value="0"/>
-                <Property name="text" type="java.lang.String" value="CYBER CAFE GAMING "/>
+                <Property name="text" type="java.lang.String" value="GYM MEMBERSHIP "/>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel4">
@@ -245,7 +245,7 @@
                   <Font name="Tahoma" size="12" style="1"/>
                 </Property>
                 <Property name="horizontalAlignment" type="int" value="0"/>
-                <Property name="text" type="java.lang.String" value="Poblacion Ward 2, Minglanilla, Cebu"/>
+                <Property name="text" type="java.lang.String" value="Proper Pakigne, Minglanilla, Cebu"/>
               </Properties>
             </Component>
             <Component class="javax.swing.JSeparator" name="jSeparator1">

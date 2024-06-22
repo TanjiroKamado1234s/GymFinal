@@ -160,7 +160,6 @@ public class ViewYourSubscription extends javax.swing.JFrame {
 
         jPanel1 = new javax.swing.JPanel();
         jPanel2 = new javax.swing.JPanel();
-        jLabel1 = new javax.swing.JLabel();
         acc_user = new javax.swing.JLabel();
         acc_lname = new javax.swing.JLabel();
         jPanel3 = new javax.swing.JPanel();
@@ -194,10 +193,6 @@ public class ViewYourSubscription extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(255, 204, 204));
         jPanel2.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ICONS/hacker.png"))); // NOI18N
-        jPanel2.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, 141, 130));
 
         acc_user.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         acc_user.setForeground(new java.awt.Color(255, 255, 255));
@@ -398,7 +393,6 @@ public class ViewYourSubscription extends javax.swing.JFrame {
     private javax.swing.JLabel acc_user;
     public javax.swing.JLabel edate;
     public javax.swing.JLabel image;
-    private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;
     private javax.swing.JLabel jLabel12;

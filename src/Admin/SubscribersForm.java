@@ -456,7 +456,7 @@ private boolean isDuplicate(String firstName, String lastName) throws SQLExcepti
 
         jLabel2.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("CYBER CAFE SUBSCRIBERS");
+        jLabel2.setText("GYM MEMBERSHIP SUSBCRIPTION");
 
         jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ICONS/icons8-arrow-back-24 (1).png"))); // NOI18N
         jLabel3.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
